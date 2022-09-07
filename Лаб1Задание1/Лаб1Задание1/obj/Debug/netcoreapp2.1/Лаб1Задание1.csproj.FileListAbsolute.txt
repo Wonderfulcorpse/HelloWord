@@ -1,0 +1,11 @@
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\bin\Debug\netcoreapp2.1\Лаб1Задание1.deps.json
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\bin\Debug\netcoreapp2.1\Лаб1Задание1.runtimeconfig.json
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\bin\Debug\netcoreapp2.1\Лаб1Задание1.runtimeconfig.dev.json
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\bin\Debug\netcoreapp2.1\Лаб1Задание1.dll
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\bin\Debug\netcoreapp2.1\Лаб1Задание1.pdb
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\obj\Debug\netcoreapp2.1\Лаб1Задание1.csprojAssemblyReference.cache
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\obj\Debug\netcoreapp2.1\Лаб1Задание1.csproj.CoreCompileInputs.cache
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\obj\Debug\netcoreapp2.1\Лаб1Задание1.AssemblyInfoInputs.cache
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\obj\Debug\netcoreapp2.1\Лаб1Задание1.AssemblyInfo.cs
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\obj\Debug\netcoreapp2.1\Лаб1Задание1.dll
+E:\3 курс\РПМ\Лаб1Задание1\Лаб1Задание1\obj\Debug\netcoreapp2.1\Лаб1Задание1.pdb
