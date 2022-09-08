@@ -1,0 +1,13 @@
+D:\3 курс\РПМ\Лаб2\Задание2\bin\Debug\netcoreapp3.1\Задание2.exe
+D:\3 курс\РПМ\Лаб2\Задание2\bin\Debug\netcoreapp3.1\Задание2.deps.json
+D:\3 курс\РПМ\Лаб2\Задание2\bin\Debug\netcoreapp3.1\Задание2.runtimeconfig.json
+D:\3 курс\РПМ\Лаб2\Задание2\bin\Debug\netcoreapp3.1\Задание2.runtimeconfig.dev.json
+D:\3 курс\РПМ\Лаб2\Задание2\bin\Debug\netcoreapp3.1\Задание2.dll
+D:\3 курс\РПМ\Лаб2\Задание2\bin\Debug\netcoreapp3.1\Задание2.pdb
+D:\3 курс\РПМ\Лаб2\Задание2\obj\Debug\netcoreapp3.1\Задание2.csprojAssemblyReference.cache
+D:\3 курс\РПМ\Лаб2\Задание2\obj\Debug\netcoreapp3.1\Задание2.AssemblyInfoInputs.cache
+D:\3 курс\РПМ\Лаб2\Задание2\obj\Debug\netcoreapp3.1\Задание2.AssemblyInfo.cs
+D:\3 курс\РПМ\Лаб2\Задание2\obj\Debug\netcoreapp3.1\Задание2.csproj.CoreCompileInputs.cache
+D:\3 курс\РПМ\Лаб2\Задание2\obj\Debug\netcoreapp3.1\Задание2.dll
+D:\3 курс\РПМ\Лаб2\Задание2\obj\Debug\netcoreapp3.1\Задание2.pdb
+D:\3 курс\РПМ\Лаб2\Задание2\obj\Debug\netcoreapp3.1\Задание2.genruntimeconfig.cache
